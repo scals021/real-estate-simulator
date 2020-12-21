@@ -1,4 +1,4 @@
-# real-estate-simulator
+# Sam, the Simple Simulator built for Real Estate Investments
 My name is Sam and I was born to help you make the property decisions that not just work with your monthly budget, but help you build long equity and net worth. 
  run simulations to predict your monthly payments, 10 year return on investment, best case and worst case scenarios across a wide variety of different financing alternatives and propeties!    
 
